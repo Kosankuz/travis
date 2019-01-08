@@ -1,9 +1,12 @@
 <?php
 
-$text = "kakojto tekst";
+$inter = 1;
 
-echo $text;
-echo $text;
+if($inter == 1){
+  echo "true";
+} else {
+  echo false;
+}
 
 
  ?>
